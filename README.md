@@ -13,7 +13,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/AlbShar/webatom.git
+  git clone https://github.com/AlbShar/fakeStore.git
 ```
 
 Go to the project directory
