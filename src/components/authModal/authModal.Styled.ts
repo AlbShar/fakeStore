@@ -6,7 +6,7 @@ const StyleDivModal = styled.div`
   top: 0;
   left: 0;
   width: 100vw;
-  height: 100vw;
+  height: 100vh;
   overflow: auto;
   background-color: rgba(0, 0, 0, 0.5);
   padding-top: 15px;
@@ -22,8 +22,9 @@ const StyledForm = styled.form`
   width: 90%;
   max-width: 700px;
   height: auto;
-  top: 5%;
-  left: 25%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   display: flex;
   flex-direction: column;
   justify-content: center;
