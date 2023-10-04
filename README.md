@@ -8,33 +8,33 @@
 - Удаление продукта
 - Изменение продукта
 
-## Run Locally
+## Запустить локально
 
-Clone the project
+Клонировать проект
 
 ```bash
   git clone https://github.com/AlbShar/fakeStore.git
 ```
 
-Go to the project directory
+Перейти в директорию проекта
 
 ```bash
   cd fakeStore
 ```
 
-Install dependencies
+Установить зависимости
 
 ```bash
   npm install
 ```
 
-Start the development server
+Запустить сервер разработки
 
 ```bash
   npm run start
 ```
 
-### Tech Stack:
+### Стек:
 
 - React
 - Redux Toolkit
